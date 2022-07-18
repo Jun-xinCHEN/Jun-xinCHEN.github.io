@@ -160,8 +160,8 @@ BODY#portal-body {
 	BACKGROUND-COLOR: #e9eff5
 }
 BODY * {
-	FONT-SIZE: 1em;
-	margin-left: 0px;
+	FONT-SIZE: 12pt;
+	margin-left: 1px;
 }
 .font-xx-small {
 	FONT-SIZE: 0.7em
@@ -345,7 +345,7 @@ FONT.bg {
 }
 #layout-outer-side-decoration {
 	BACKGROUND-COLOR: #e9eff5;
-	height: 400px;
+	height: 360px;
 }
 #layout-inner-side-decoration {
 	MARGIN: 0px auto; HEIGHT: 100%; BACKGROUND-COLOR: #ffffff
@@ -534,7 +534,11 @@ FONT.bg {
 	BACKGROUND-COLOR: #ffffff
 }
 .portlet-box {
-	BORDER-RIGHT: #9fb7d3 1px solid; BORDER-TOP: #9fb7d3 1px solid; MARGIN-TOP: 1px; BORDER-LEFT: #9fb7d3 1px solid; BORDER-BOTTOM: #9fb7d3 1px solid
+	BORDER-RIGHT: #9fb7d3 1px solid;
+	BORDER-TOP: #9fb7d3 1px solid;
+	MARGIN-TOP: 12px;
+	BORDER-LEFT: #9fb7d3 1px solid;
+	BORDER-BOTTOM: #9fb7d3 1px solid
 }
 .portlet-minimum-height {
 	HEIGHT: 1px
